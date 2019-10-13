@@ -1,5 +1,5 @@
 {
-  "auth":
+  "auth":{
     "login": {
       "token": "eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJ0ZXN0IiwiZXhwIjoxNTY3Njc3MzExLCJpYXQiOjE1Njc2NzAxMTF9.AZ1kweDSm4iPXSZnReLVqdgjBjGPCmNKNsU0apzoBjf1MXKt7noz9313YsbZ280jO7573sRM8VbnYAx-uydQ3A",
       "user": {
@@ -27,5 +27,6 @@
               "DICT_SELECT"
           ]
       }
+    }
   }
 }
