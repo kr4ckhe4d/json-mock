@@ -1,30 +1,33 @@
 {
-  "login": {
-    "token": "eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJ0ZXN0IiwiZXhwIjoxNTY3Njc3MzExLCJpYXQiOjE1Njc2NzAxMTF9.AZ1kweDSm4iPXSZnReLVqdgjBjGPCmNKNsU0apzoBjf1MXKt7noz9313YsbZ280jO7573sRM8VbnYAx-uydQ3A",
-    "user": {
-        "username": "test",
-        "avatar": "https://aurora-1255840532.cos.ap-chengdu.myqcloud.com/8918a306ea314404835a9196585c4b75.jpeg",
-        "email": "test@eladmin.net",
-        "phone": "17777777777",
-        "dept": "Coordinator",
-        "job": "软件测试",
-        "enabled": true,
-        "createTime": 1545912326000,
-        "roles": [
-            "PERMISSION_SELECT",
-            "USER_SELECT",
-            "ROLES_SELECT",
-            "USERJOB_SELECT",
-            "DEPT_SELECT",
-            "MENU_SELECT",
-            "PICTURE_SELECT",
-            "PICTURE_ALL",
-            "PICTURE_DELETE",
-            "REDIS_SELECT",
-            "JOB_SELECT",
-            "PICTURE_UPLOAD",
-            "DICT_SELECT"
-        ]
-    }
+  {
+  "auth":
+    "login": {
+      "token": "eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJ0ZXN0IiwiZXhwIjoxNTY3Njc3MzExLCJpYXQiOjE1Njc2NzAxMTF9.AZ1kweDSm4iPXSZnReLVqdgjBjGPCmNKNsU0apzoBjf1MXKt7noz9313YsbZ280jO7573sRM8VbnYAx-uydQ3A",
+      "user": {
+          "username": "test",
+          "avatar": "https://aurora-1255840532.cos.ap-chengdu.myqcloud.com/8918a306ea314404835a9196585c4b75.jpeg",
+          "email": "test@eladmin.net",
+          "phone": "17777777777",
+          "dept": "Coordinator",
+          "job": "软件测试",
+          "enabled": true,
+          "createTime": 1545912326000,
+          "roles": [
+              "PERMISSION_SELECT",
+              "USER_SELECT",
+              "ROLES_SELECT",
+              "USERJOB_SELECT",
+              "DEPT_SELECT",
+              "MENU_SELECT",
+              "PICTURE_SELECT",
+              "PICTURE_ALL",
+              "PICTURE_DELETE",
+              "REDIS_SELECT",
+              "JOB_SELECT",
+              "PICTURE_UPLOAD",
+              "DICT_SELECT"
+          ]
+      }
+  }
 }
 }
